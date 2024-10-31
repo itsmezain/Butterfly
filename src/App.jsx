@@ -47,7 +47,6 @@ const App = () => {
   // Floating effect
   useGSAP(() => {
     gsap.to(flyref.current, {
-      y: "+=5",
       duration: 1,
       yoyo: true,
       repeat: -1,
