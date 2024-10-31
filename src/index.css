@@ -25,8 +25,8 @@ main {
 }
 
 img {
-  width: 25vw; /* Increase size for visibility on mobile */
-  max-width: 150px; /* Limit max height */
+  width: 60vw; /* Increase size for visibility on mobile */
+  max-width: 200px; /* Limit max height */
   transition: transform 0.2s; /* Add transition for hover effects */
   box-shadow: 0 0 20px rgba(0, 0, 0, 0);
 }
