@@ -30,7 +30,7 @@ const App = () => {
     gsap.to(flyref.current, {
       x: xValue,
       y: yValue,
-      duration: 1.5,
+      duration: 2,
       rotate: Rotate,
       ease: "power1.inOut",
       onComplete: () => {
@@ -47,7 +47,7 @@ const App = () => {
   // Floating effect
   useGSAP(() => {
     gsap.to(flyref.current, {
-      duration: 1,
+      duration: 1.5,
       yoyo: true,
       repeat: -1,
       ease: "sine.inOut",
