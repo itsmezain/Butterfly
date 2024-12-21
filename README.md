@@ -59,10 +59,3 @@ Contributions are welcome! Feel free to fork the repository, submit issues, or m
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For any questions or inquiries, feel free to contact me via GitHub Issues or [email](mailto:your-email@example.com).
-```
-
-Feel free to modify any sections such as the contact information, technology stack, or additional features specific to your project!
